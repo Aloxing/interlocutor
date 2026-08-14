@@ -1,0 +1,12 @@
+[package]
+name = "markdown-core"
+version = "0.1.0"
+edition = "2021"
+description = "Pure Rust Markdown parsing core: Lexer -> Parser -> AST -> Renderer"
+license = "MIT"
+
+[lib]
+name = "markdown_core"
+path = "src/lib.rs"
+
+[dependencies]

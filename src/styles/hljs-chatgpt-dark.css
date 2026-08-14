@@ -1,0 +1,38 @@
+/* highlight.js dark theme — used by .dark .hljs selectors. */
+.dark .hljs { color: #d4d4d8; }
+
+.dark .hljs-comment,
+.dark .hljs-quote { color: #6b7280; }
+
+.dark .hljs-keyword,
+.dark .hljs-selector-tag,
+.dark .hljs-literal,
+.dark .hljs-section,
+.dark .hljs-link { color: #c4b5fd; }
+
+.dark .hljs-string,
+.dark .hljs-attribute,
+.dark .hljs-symbol,
+.dark .hljs-bullet,
+.dark .hljs-built_in,
+.dark .hljs-addition,
+.dark .hljs-template-tag,
+.dark .hljs-template-variable { color: #86efac; }
+
+.dark .hljs-number,
+.dark .hljs-meta { color: #fbbf24; }
+
+.dark .hljs-title,
+.dark .hljs-class .hljs-title,
+.dark .hljs-type,
+.dark .hljs-name,
+.dark .hljs-function .hljs-title,
+.dark .hljs-title.function_ { color: #93c5fd; font-weight: 500; }
+
+.dark .hljs-variable,
+.dark .hljs-template-variable,
+.dark .hljs-regexp { color: #fca5a5; }
+
+.dark .hljs-tag { color: #fca5a5; }
+
+.dark .hljs-deletion { color: #f87171; }
